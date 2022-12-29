@@ -1,0 +1,289 @@
+.one{
+    /* margin-top: 20px; */
+    background-image: url(./images/istockphoto-1199686348-612x612.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+
+    padding: 200px 20px;
+    color: white;
+    margin: 0 auto;
+
+}
+
+.one h1{
+margin: 0 auto;
+    font-size: 30px;
+    box-sizing: border-box;
+    font-size: 3rem;
+    text-align: center;
+
+}
+
+.one p{
+    /* border: 2px solid yellow; */
+    margin: 0 auto;
+    display: block;
+    font-size: 1.2rem;
+    text-align: center;
+
+
+}
+
+.dd{
+    /* border: 2px solid red; */
+    /* display: flex !important; */
+    margin: 0 auto;
+}
+
+.products{
+    text-align: center;
+    margin-top: 10px;
+    margin: 30px;
+}
+
+.slide{
+    /* border: 2px solid red; */
+    text-align: center;
+    background-color: lightpink;
+}
+
+/* SERVICES */
+
+.lipstick{
+    background-image: url(./images/istockphoto-913369614-170667a.jpg);
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    padding-top: 100px;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+
+      
+}
+.eyeshadow{
+    background-image: url(./images/istockphoto-483790073-170667a.jpg);
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    padding-top: 100px;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+
+}
+.brushes{
+    background-image: url(./images/istockphoto-827688628-170667a.jpg);
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    padding-top: 100px;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+
+   
+
+}
+.beauty-blender{
+    background-image: url(./images/istockphoto-1350464884-612x612.jpg);
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 100px;
+    font-size: 25px;
+    color: white;
+
+}
+
+.lip-liner{
+    background-image: url(./images/istockphoto-1289844733-170667a.jpg);
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 100px;
+    font-size: 25px;
+    color: maroon;
+}
+
+.eyebrow-brush{
+    background-image: url(./images/istockphoto-1358091530-612x612.jpg);
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 100px;
+    font-size: 25px;
+    background-position: center;
+}   
+.line-1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 30px;
+    gap: 5px;
+}
+
+.line-2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 30px;
+    gap: 5px;
+}
+
+.line{
+    color: brown;
+    height: 2px;
+    background-color: brown;
+}
+ 
+
+.slide{
+    /* border: 2px solid green; */
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 30px;
+}
+
+
+/* ABOUT */
+
+.about{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    align-items: center;
+    gap: 30px;
+
+}
+
+.second-img-div img{
+    border-radius: 20px;
+}
+
+/* CONTACT US */
+.mecury{
+    display: flex;
+    /* flex-wrap: wrap; */
+    align-items: center;
+    /* gap: 20px; */
+    justify-content: center;
+}
+
+.feed label{
+    vertical-align: top;
+    display: inline-block;
+    margin-top: 35px;
+}
+
+.mm{
+    margin-top: 50px;
+
+}
+
+.nn{
+    margin-top: 25px;
+}
+
+.sub{
+    background-color: pink;
+    font-size: 20px;
+    border: none;
+}
+
+
+.sub:hover{
+    background-image: linear-gradient( lightpink,lightblue) !important;
+    transform: scale(1.3);
+}
+
+.contact{
+    
+  background-image: linear-gradient( lightpink,lightblue);
+  padding: 20px;
+  margin-top: 30px;
+}
+
+
+.icon{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 20px;
+}
+
+
+.line{
+    color: brown;
+    height: 2px;
+    background-color: brown;
+}
+
+.container-9{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.foot{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    
+}
+
+footer{
+    background-image: linear-gradient( lightpink,lightblue);
+    padding: 30px;
+    margin-top: 30px;
+}
+
+.container-8{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.ff{
+    background-image: linear-gradient( lightpink,lightblue);
+    margin: 0 auto !important;
+    /* padding-left: 0 auto; */
+    }
+
+
+    .reason{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: 30px;
+        gap: 5px;
+    
+    }
+    
+    .con-1{
+        background-color: lightpink;
+        padding: 20px;
+        border-radius: 10px;
+    }
+    .con-2{
+        background-color: mediumorchid;
+        padding: 20px;
+        border-radius: 10px;
+    }
+    .con-3{
+        background-color: lightblue;
+        padding: 20px;
+        border-radius: 10px;
+    }
+
+    .kk{
+    
+    width: 75%;
+
+
+}
+
